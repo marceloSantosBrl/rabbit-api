@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rabbit-api", "rabbit-api\rabbit-api.csproj", "{B61AA119-0D3E-4107-8AF2-44BD510A265B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitWorker", "RabbitWorker\RabbitWorker.csproj", "{5853F6DD-82FB-4D40-9B80-50C4862AE9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B61AA119-0D3E-4107-8AF2-44BD510A265B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61AA119-0D3E-4107-8AF2-44BD510A265B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61AA119-0D3E-4107-8AF2-44BD510A265B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61AA119-0D3E-4107-8AF2-44BD510A265B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5853F6DD-82FB-4D40-9B80-50C4862AE9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5853F6DD-82FB-4D40-9B80-50C4862AE9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5853F6DD-82FB-4D40-9B80-50C4862AE9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5853F6DD-82FB-4D40-9B80-50C4862AE9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
